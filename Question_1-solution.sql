@@ -4,3 +4,8 @@ SELECT
     COUNT(order_id) AS total_orders
 FROM
     orders;
+
+
+-- Result: 
+
+-- 21350
