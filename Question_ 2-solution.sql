@@ -11,3 +11,9 @@ FROM
         JOIN
     pizzas 
 ON pizzas.pizza_id = order_details.pizza_id
+
+
+
+-- Result:
+
+-- 817860.05
